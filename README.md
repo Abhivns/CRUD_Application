@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teacher CRUD Application
 
 Full-stack CRUD web application built with CodeIgniter, MySQL, ReactJS, and JWT authentication.
@@ -137,3 +138,7 @@ Backend:
 - `php spark migrate`
 - `php spark routes`
 - `php -l` on updated PHP files
+=======
+# CRUD_Application
+Full-stack CRUD application built with CodeIgniter (PHP) and ReactJS. Implements JWT-based authentication, protected REST APIs, and a one-to-one relational database (auth_user ↔ teachers). Supports secure login/register and complete CRUD operations with structured MVC architecture.
+>>>>>>> f6cdd8a0266da25e94b581947ac23e8eb746bffa
